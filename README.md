@@ -15,5 +15,5 @@ Carnet: 29-1149-2014
 ![Sistema](Capturas/3.png)
 
 ### Datos que se muestra al presionar el botón contacto.
-![Sistema](Capturas/4 contacto.png)
+![Sistema](Capturas/4.png)
 
