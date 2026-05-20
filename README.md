@@ -1,2 +1,9 @@
 # PromedioNetBeans
-Primer programa en NetBeans
+
+# Datos
+Nombre: Alfredo Antonio Navarro Guido
+Carnet: 29-1149-2014
+
+## Capturas
+![Sistema](imagenes/sistema.png)
+
